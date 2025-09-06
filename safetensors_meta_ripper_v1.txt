@@ -1,0 +1,1 @@
+safetensors_meta_ripper.py --gguf-file "C:\mergekit-main\unquant\RandomModel-Q8_0.gguf" --shards-dir "C:\mergekit-main\merged_model_output"
