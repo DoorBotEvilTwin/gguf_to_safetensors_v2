@@ -1,4 +1,4 @@
-# GGUF to Sharded Safetensors Converter (gguf_to_safetensors_v2)
+# GGUF to Sharded Safetensors Converter
 
 This script is an advanced conversion tool designed to upconvert any GGUF model (e.g., Q4_K_M, Q8_0) into a sharded FP16 or BF16 Hugging Face model, fully compatible with modern ML tools like `mergekit` and the `transformers` library.
 
