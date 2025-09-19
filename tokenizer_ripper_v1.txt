@@ -1,0 +1,1 @@
+python tokenizer_ripper.py --gguf-file "C:\Quanter\model_cache\Fentible__test_model_697\RandomModel-Q8_0.gguf" --output-dir "C:\Quanter\model_cache\Fentible__test_model_697"

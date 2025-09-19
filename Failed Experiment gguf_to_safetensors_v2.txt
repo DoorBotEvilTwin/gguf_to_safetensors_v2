@@ -1,0 +1,13 @@
+# Failed Experiment gguf_to_safetensors_v2
+
+Gemini was not able to help me patch the gguf_to_safetensors script to allow for conversion of modern Q8_0 ggufs to safetensors.
+
+This might actually work on some models, but the one I was testing it on did not have any of the source JSON files, which are seemingly impossible to reconstruct.
+
+These are the scripts that were attempted to be patched. Maybe someone else can get this working eventually.
+
+But I have given up on this project and on model merging in general. I deleted 2TB+ of safetensors and gguf files, keeping only a select few.
+
+I've lost faith that model merging can produce a better model than a well-made finetune. The process is too abstract.
+
+Orochi is my final merge for now.
